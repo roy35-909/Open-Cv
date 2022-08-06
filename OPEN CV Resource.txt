@@ -1,0 +1,4 @@
+Python open cv Turorial = >>>>> https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
+
+How pixel value store in a matrix = >>>>> https://www.youtube.com/watch?v=mAMTXJJQBDI
+
